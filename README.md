@@ -72,4 +72,4 @@ Make sure you have the following installed on your system:
 1. Clone the repository (if you haven't already):
 
    ```bash
-   git clone https://github.com/yourusername/2048-game-java.git
+   git clone https://github.com/mrharshdalal/2048-game-java.git
